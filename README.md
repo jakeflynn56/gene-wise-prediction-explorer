@@ -1,5 +1,5 @@
 # Gene-wise Prediction Explorer
-This interactive tool allows you to explore gene-wise prediction using a dataset of your choice. Select the dataset, predictor, and the gene you want to investigate. The app will provide you with visualizations of predictor score distributions, helping you gain a deeper understanding of predictor performance at the gene level. The density plot is estimated with scores from all SNVs.
+This interactive tool allows you to explore gene-wise prediction using a dataset of your choice. Select the dataset, predictor, and the gene you want to investigate. The app will provide you with visualizations of predictor score distributions, helping you gain an understanding of predictor performance at the gene level. The density plot is estimated with scores from all SNVs.
 
 ## Features
 - **Dataset Selection:** Users can choose datasets for analysis.
