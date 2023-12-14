@@ -5,7 +5,7 @@ This interactive tool allows you to explore gene-wise prediction using a dataset
 - **Dataset Selection:** Users can choose datasets for analysis.
 - **Predictor Analysis:** Incorporates two predictors: REVEL and BayesDel.
 - **Gene Filtering:** Allows filtering by specific genes to analyze discordant, concordant, and indeterminate intervals.
-- **Interactive Visualizations:** Provides density plots for in-depth analysis.
+- **Interactive Visualizations:** Provides density plots and histograms for analysis.
 - **Data Export:** Options to download interactive plots as PNG and filtered data as CSV.
 
 ## Installation and Usage
