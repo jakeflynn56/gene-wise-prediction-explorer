@@ -34,18 +34,11 @@ gene-wise-prediction-explorer/
 ├── SNVsConcatenationScript.R
 ├── requirements.R
 ├── README.md
-├── data/
-│   ├── bd_no_training_var.csv
-│   ├── bd_one_star_missense.csv
-│   ├── revel_no_training_var.csv
-│   ├── revel_one_star_missense.csv
-│   ├── clinvar_2023_annoavar_37_parsed_one_star_missense_no_vus_AF_filtered_w_geneid_cleanedup_nogenedup.csv
-│   ├── clinvar23_no_training_var_AF_fixed_w_geneid_cleaned_up.csv
-│   ├── Clinvar_2019_dataset_080823.xlsx
-│   ├── Clinvar_2020_dataset_080823.xlsx
-│   └── clinvar_2023_annoavar_37_parsed_one_star_missense_no_vus_AF_filtered.csv
 └── LICENSE
 ```
+
+## Data
+The datasets required for running this application can be found on [Google Drive](https://drive.google.com/drive/folders/1tbs8NvXBmrcviAgPv6Bmt7SWYU3laTTj?usp=sharing). The datasets required for creating the SQLite database can be found [here](https://drive.google.com/drive/folders/1K4LI6ZSsUGBhHoChUtegC8bgCt7hbQlA) for BayesDel and [here](https://drive.google.com/drive/folders/1K4LI6ZSsUGBhHoChUtegC8bgCt7hbQlA) for REVEL. **It is important to note that as of 12/14/2023 the ClinGen SVI Calibration Dataset and ClinVar 2023 Dataset need to be analyzed before the filters will work successfully within the R Shiny application.**
 
 ## Authors
 Jake Flynn - Initial Work
