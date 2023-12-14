@@ -27,27 +27,25 @@ The Gene-wise Prediction Explorer is an interactive R Shiny application designed
 - **README.md:** This file, containing detailed information about the app.
 
 ## Repository Structure
+```
 gene-wise-prediction-explorer/
-│
 ├── app.R
 ├── GenomicDataProcessingScript.sql
 ├── SNVsConcatenationScript.R
 ├── requirements.R
 ├── README.md
-│
 ├── data/
-│   ├── sample_data.csv
-│   └── bd_no_training_var.csv
-│   └── bd_one_star_missense.csv
-│   └── revel_no_training_var.csv
-│   └── revel_one_star_missense.csv
-│   └── clinvar_2023_annoavar_37_parsed_one_star_missense_no_vus_AF_filtered_w_geneid_cleanedup_nogenedup.csv
-│   └── clinvar23_no_training_var_AF_fixed_w_geneid_cleaned_up.csv
-│   └── Clinvar_2019_dataset_080823.xlsx
-│   └── Clinvar_2020_dataset_080823.xlsx
+│   ├── bd_no_training_var.csv
+│   ├── bd_one_star_missense.csv
+│   ├── revel_no_training_var.csv
+│   ├── revel_one_star_missense.csv
+│   ├── clinvar_2023_annoavar_37_parsed_one_star_missense_no_vus_AF_filtered_w_geneid_cleanedup_nogenedup.csv
+│   ├── clinvar23_no_training_var_AF_fixed_w_geneid_cleaned_up.csv
+│   ├── Clinvar_2019_dataset_080823.xlsx
+│   ├── Clinvar_2020_dataset_080823.xlsx
 │   └── clinvar_2023_annoavar_37_parsed_one_star_missense_no_vus_AF_filtered.csv
-│
 └── LICENSE
+```
 
 ## Authors
 Jake Flynn - Initial Work
