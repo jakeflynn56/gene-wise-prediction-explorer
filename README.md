@@ -1,9 +1,6 @@
 # Gene-wise Prediction Explorer
 This interactive tool allows you to explore gene-wise prediction using a dataset of your choice. Select the dataset, predictor, and the gene you want to investigate. The app will provide you with visualizations of predictor score distributions, helping you gain a deeper understanding of predictor performance at the gene level. The density plot is estimated with scores from all SNVs.
 
-## About
-The Gene-wise Prediction Explorer is an interactive R Shiny application designed to facilitate gene-wise prediction analysis using custom datasets. It offers insightful visualizations of predictor score distributions, aiding in the understanding of predictor performance at the gene level.
-
 ## Features
 - **Dataset Selection:** Users can choose datasets for analysis.
 - **Predictor Analysis:** Incorporates two predictors: REVEL and BayesDel.
