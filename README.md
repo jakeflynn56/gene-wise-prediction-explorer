@@ -36,7 +36,7 @@ gene-wise-prediction-explorer/
 ```
 
 ## Data
-The datasets required for running this application can be found on [Google Drive](https://drive.google.com/drive/folders/1tbs8NvXBmrcviAgPv6Bmt7SWYU3laTTj?usp=sharing). The datasets required for creating the SQLite database can be found [here](https://drive.google.com/drive/folders/1K4LI6ZSsUGBhHoChUtegC8bgCt7hbQlA) for BayesDel and [here](https://drive.google.com/drive/folders/1K4LI6ZSsUGBhHoChUtegC8bgCt7hbQlA) for REVEL. **It is important to note that as of 12/14/2023 the ClinGen SVI Calibration Dataset and ClinVar 2023 Dataset need to be analyzed before the filters will work successfully within the R Shiny application.**
+The datasets required for running this application can be found on [Google Drive](https://drive.google.com/drive/folders/1tbs8NvXBmrcviAgPv6Bmt7SWYU3laTTj?usp=sharing). The datasets required for creating the SQLite database can be found [here](https://drive.google.com/drive/folders/1K4LI6ZSsUGBhHoChUtegC8bgCt7hbQlA) for BayesDel and [here](https://zenodo.org/records/7072866) for REVEL. **It is important to note that as of 12/14/2023 the ClinGen SVI Calibration Dataset and ClinVar 2023 Dataset need to be analyzed before the filters will work successfully within the R Shiny application.**
 
 ## Authors
 Jake Flynn - Initial Work
