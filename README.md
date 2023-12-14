@@ -10,10 +10,11 @@ This interactive tool allows you to explore gene-wise prediction using a dataset
 
 ## Installation and Usage
 - The application can be accessed on [fowler-web](https://fowler-shiny.gs.washington.edu/shiny/fowler-shiny/).
-- Alternatively, the application can be ran locally
+- Alternatively, the application can be ran locally:
     - **Clone the repository:** ```git clone https://github.com/jakeflynn56/gene-wise-prediction-explorer```
     - **Set up the environment:** Ensure you have R and RStudio installed. Dependencies are listed in requirements.R.
-    - **Load the App:** Open app.R in RStudio and run the app.
+    - **Download the required datasets:** See Data section below.
+    - **Load the app:** Open app.R in RStudio and run the app.
     - **Explore:** Select your dataset, predictors, and genes to view the visualizations.
 
 ## Files in the Repository
